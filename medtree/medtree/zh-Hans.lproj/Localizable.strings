@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  medtree
+
+  Created by sam on 11/3/14.
+  Copyright (c) 2014 sam. All rights reserved.
+*/
+
+"Delete_Cell" = "删除";

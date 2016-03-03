@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  hangcom-ui
+
+  Created by lyuan on 13-8-23.
+  Copyright (c) 2013年 sam. All rights reserved.
+*/
+
+"loading" = "Loading...";
+"more" = "more...";
+"drop_down_refresh" = "Drop down refresh...";
+"loosen_update" = "Loosen update...";
+"last_updated" = "Last updated";
+"update_successful" = "Update successful";
+"morning" = "Morning";
+"afternoon" = "Afternoon";

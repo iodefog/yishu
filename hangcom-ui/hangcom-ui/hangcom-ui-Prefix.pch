@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'hangcom-ui' target in the 'hangcom-ui' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
